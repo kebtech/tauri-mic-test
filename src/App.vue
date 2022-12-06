@@ -1,7 +1,7 @@
 <template>
   <div class="container">
-    <button @click="tryStream">Try stream and show devies</button>
-    <div class="stream-response">{{status? 'streaming': 'not streaming'}}</div>
+    <button @click="tryStream">Try stream and show devices</button>
+    <div class="stream-response">{{status? 'streaming from ' + device: 'not streaming'}}</div>
     <div class="device" v-for="device in devices" :key="device.deviceId">{{device.deviceId + ' - ' + device.label}}</div>
   </div>
 </template>
@@ -12,7 +12,8 @@ import { defineComponent, reactive, ref } from 'vue';
 export default defineComponent({
   setup() {
     const devices: MediaDeviceInfo[] = reactive([]);
-    const status = ref(false)
+    const status = ref(false);
+    const device = ref('')
 
     const showDevices = () => {
       devices.length = 0;
@@ -25,7 +26,7 @@ export default defineComponent({
     const tryStream = () => {
       navigator.mediaDevices.getUserMedia({audio: true, video: false})
         .then(s => {
-          console.log(s.getAudioTracks());
+          device.value = s.getTracks()[0].label;
           status.value = s.active;
           showDevices();
           setTimeout(() => {
@@ -41,7 +42,7 @@ export default defineComponent({
       
     }
 
-    return { tryStream, devices, status }
+    return { tryStream, devices, status, device }
   }
 });
 </script>
