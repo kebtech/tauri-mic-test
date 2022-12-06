@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/kyleebner/Development/tauri_tests/test-tuner/src-tauri/target/debug/build/typenum-87117cc0721d4f06/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/kyleebner/Development/tauri_tests/test-tuner/src-tauri/target/debug/build/typenum-87117cc0721d4f06/out/op.rs

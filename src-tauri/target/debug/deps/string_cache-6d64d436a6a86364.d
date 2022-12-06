@@ -1,0 +1,11 @@
+/Users/kyleebner/Development/tauri_tests/test-tuner/src-tauri/target/debug/deps/string_cache-6d64d436a6a86364.rmeta: /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/lib.rs /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/atom.rs /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/dynamic_set.rs /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/static_sets.rs /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/trivial_impls.rs
+
+/Users/kyleebner/Development/tauri_tests/test-tuner/src-tauri/target/debug/deps/libstring_cache-6d64d436a6a86364.rlib: /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/lib.rs /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/atom.rs /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/dynamic_set.rs /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/static_sets.rs /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/trivial_impls.rs
+
+/Users/kyleebner/Development/tauri_tests/test-tuner/src-tauri/target/debug/deps/string_cache-6d64d436a6a86364.d: /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/lib.rs /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/atom.rs /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/dynamic_set.rs /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/static_sets.rs /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/trivial_impls.rs
+
+/Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/lib.rs:
+/Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/atom.rs:
+/Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/dynamic_set.rs:
+/Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/static_sets.rs:
+/Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/trivial_impls.rs:

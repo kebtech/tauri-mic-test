@@ -1,0 +1,12 @@
+/Users/kyleebner/Development/tauri_tests/test-tuner/src-tauri/target/debug/deps/dispatch-6ffbed0fd0b8f7e6.rmeta: /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/lib.rs /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/ffi.rs /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/group.rs /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/queue.rs /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/once.rs /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/sem.rs
+
+/Users/kyleebner/Development/tauri_tests/test-tuner/src-tauri/target/debug/deps/libdispatch-6ffbed0fd0b8f7e6.rlib: /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/lib.rs /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/ffi.rs /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/group.rs /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/queue.rs /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/once.rs /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/sem.rs
+
+/Users/kyleebner/Development/tauri_tests/test-tuner/src-tauri/target/debug/deps/dispatch-6ffbed0fd0b8f7e6.d: /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/lib.rs /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/ffi.rs /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/group.rs /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/queue.rs /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/once.rs /Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/sem.rs
+
+/Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/lib.rs:
+/Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/ffi.rs:
+/Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/group.rs:
+/Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/queue.rs:
+/Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/once.rs:
+/Users/kyleebner/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/sem.rs:
